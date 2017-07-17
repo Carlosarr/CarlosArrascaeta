@@ -1,0 +1,10 @@
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Negro\Desktop\ProyectoFinalServices\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Negro\Desktop\ProyectoFinalServices\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Negro\Desktop\ProyectoFinalServices\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Negro\Desktop\ProyectoFinalServices\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Negro\Desktop\ProyectoFinalServices\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

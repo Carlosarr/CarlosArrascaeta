@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="Logica.LogicaAdministrativo">
+    <Position X="0.5" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <FileName>LogicaAdministrativo.cs</FileName>
+      <HashCode>ACAAAAAAQEAAAAAAAAAAAAAAkAAAAAAAAAAIAAAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.LogicaCliente1">
+    <Position X="4.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <FileName>LogicaCliente1.cs</FileName>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAgAAAAAAAAAAABAABAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.LogicaCupon">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LogicaCupon.cs</FileName>
+      <HashCode>AAAAAAAAAYAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.LogicaFuncionario">
+    <Position X="0.5" Y="3" Width="3.5" />
+    <TypeIdentifier>
+      <FileName>LogicaFuncionario.cs</FileName>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACBgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.LogicaMecanico">
+    <Position X="4.25" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>LogicaMecanico.cs</FileName>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAEEIAAAAAAAABACAAAwAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.LogicaTrabajo">
+    <Position X="6.75" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <FileName>LogicaTrabajo.cs</FileName>
+      <HashCode>AAAIAgAAAAAQAAAAAAAAABAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

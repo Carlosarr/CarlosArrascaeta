@@ -1,0 +1,14 @@
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Datos\bin\Debug\Datos.dll
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Datos\bin\Debug\Datos.pdb
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Datos\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Datos\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Datos\obj\Debug\Datos.dll
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Datos\obj\Debug\Datos.pdb
+C:\Users\Negro\Desktop\ProyectoFinalServices\Datos\bin\Debug\Datos.dll
+C:\Users\Negro\Desktop\ProyectoFinalServices\Datos\bin\Debug\Datos.pdb
+C:\Users\Negro\Desktop\ProyectoFinalServices\Datos\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Negro\Desktop\ProyectoFinalServices\Datos\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Negro\Desktop\ProyectoFinalServices\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Negro\Desktop\ProyectoFinalServices\Datos\obj\Debug\Datos.dll
+C:\Users\Negro\Desktop\ProyectoFinalServices\Datos\obj\Debug\Datos.pdb

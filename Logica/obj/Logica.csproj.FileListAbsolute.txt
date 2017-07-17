@@ -1,0 +1,18 @@
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Logica\bin\Debug\Logica.dll
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Logica\bin\Debug\Logica.pdb
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Logica\bin\Debug\Datos.dll
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Logica\bin\Debug\Datos.pdb
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Logica\obj\Debug\Logica.dll
+C:\Users\Negro\Documents\Visual Studio 2005\Projects\ProyectoFinalServices\Logica\obj\Debug\Logica.pdb
+C:\Users\Negro\Desktop\ProyectoFinalServices\Logica\bin\Debug\Logica.dll
+C:\Users\Negro\Desktop\ProyectoFinalServices\Logica\bin\Debug\Logica.pdb
+C:\Users\Negro\Desktop\ProyectoFinalServices\Logica\bin\Debug\Datos.dll
+C:\Users\Negro\Desktop\ProyectoFinalServices\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Negro\Desktop\ProyectoFinalServices\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Negro\Desktop\ProyectoFinalServices\Logica\bin\Debug\Datos.pdb
+C:\Users\Negro\Desktop\ProyectoFinalServices\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Negro\Desktop\ProyectoFinalServices\Logica\obj\Debug\Logica.dll
+C:\Users\Negro\Desktop\ProyectoFinalServices\Logica\obj\Debug\Logica.pdb
